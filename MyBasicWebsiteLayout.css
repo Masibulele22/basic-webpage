@@ -1,0 +1,271 @@
+html {
+  background: url(http://www.fubiz.net/wp-content/uploads/2017/12/4adobejapan.jpg) no-repeat center center fixed;
+  padding: 5px;
+  color: black;
+  font-family: 'Rancho', cursive;
+  width: 100%;
+  
+} 
+
+body {
+  font-family: 'Rancho', cursive;
+    
+}
+
+.n1 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+  background: url(https://i.imgur.com/0NSBKZe.gif) center;
+  background-size: cover;
+  display: flex;
+  opacity: 0.9;
+  width: 100%;
+  padding: 5px;
+
+}
+
+.n2 {
+  text-align: left;
+  margin-left: 10;
+}
+
+.n2a {
+  padding: 0;
+  float: right;
+  margin-left: 0;
+
+}
+
+.TokyoPicAndStory {
+  font-family: 'Rancho', cursive;
+  font-size: 2 rem;
+  padding: 5px;
+
+}
+
+.TokyoPic {
+  margin-left: 0px;
+  margin-right: 5px;
+  margin-bottom: 0px;
+  margin-top: 0px; 
+  float: left;
+  padding: 0px;
+
+}
+.n3 {
+  font-size: 2 rem;
+
+}
+
+.n4 {
+  font-size: 2 rem;
+  font-family: 'Rancho', cursive;
+  padding: 5px;
+  
+}
+
+.ChurchSquare {
+  padding: 0px;
+  
+}
+
+.Parliament {
+  padding: 0px;
+  
+}
+
+.Bo-Kaap {
+  padding: 0px;
+  margin: 0px;
+
+}
+
+.HistoricalPlaces {
+  font-family: 'Rancho', cursive;
+  font-size: 2 rem;
+  padding: 0px;
+  margin: 0px;
+  /* display: flex; */
+}
+
+.n5 {  
+  padding: 0px;
+  float: right;
+  margin-right: 10px;
+}
+
+.n5a {
+  padding-left: 5px;
+
+}
+
+.n6 {
+  padding: 0;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 0;
+  margin-bottom: 0;
+  float: left;
+
+}
+
+.n6a {
+  padding-left: 5px;
+}
+
+.n7 {
+  padding: 0;
+  margin: 0;
+  float: right;
+  margin-bottom: 10;
+
+}
+
+.n7a {
+  
+}
+
+footer {
+  font-style: oblique;
+  overflow: auto;
+  zoom: 1;
+}
+
+.clearfix {
+  
+}
+
+@media(min-width:800px) {
+  html {
+  background: url(http://www.fubiz.net/wp-content/uploads/2017/12/4adobejapan.jpg) no-repeat center center fixed;
+  background-blend-mode: lighten;
+  padding: 5px;
+  color: bla
+  font-family: 'Rancho', cursive;
+  width: 100%;
+  }
+  
+  .n1 {
+    font-size: 2 rem;
+    margin-left: 0;
+    margin-right: 10px;
+    margin-bottom: 0;
+    background: url(https://i.imgur.com/0NSBKZe.gif) center;
+    background-size: cover;
+  
+    opacity: 0.9;
+    width: 100%;
+    font-size: 2 rem;
+    padding: 5px;
+  }
+  
+  .TokyoPicAndStory {
+    font-size: 2 rem;
+    padding: 5px;
+  
+  }
+  
+  .TokyoPic {
+    margin-right: 10px;
+    margin-bottom: 0;
+    margin-top: 0;
+    float: left;
+  
+  }
+  
+  .n2 {
+    text-align: left;
+    margin-left: 10;
+  }
+  
+  .n2a {
+    padding: 0;
+    float: right;
+    margin-left: 430px;
+  }
+
+  .n3 {
+    font-size: 2 rem;
+  
+  }
+  
+  .n4 {
+    font-size: 2 rem;
+    padding: 5px;
+    
+  }
+  
+  .HistoricalPlaces {
+    font-size: 2 rem;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+  }
+
+  .ChurchSquare {
+    padding: 0px;
+    margin-right: 10px;
+  }
+  
+  .Parliament {
+    padding: 0px;
+    margin-right: 10px;
+  }
+  
+  .Bo-Kaap {
+    padding: 0px;
+    margin: 0px;
+  
+  }
+  
+  .n5 {  
+    padding: 0;
+    margin: 0;
+    float: right;
+  
+  }
+  .n5a {
+    padding-left: 5px;
+  
+  }
+  
+  .n6 {
+    padding: 0;
+    margin-left: 0;
+    margin-right: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+    float: right;
+  
+  }
+  
+  .n6a {
+    padding-left: 5px;
+  }
+  
+  .n7 {
+    padding: 0;
+    margin: 0;0
+    float: right;
+    margin-bottom: 10;
+  
+  }
+  
+  .n7a {
+    
+  }
+  
+  footer {
+    font-style: oblique;
+    float: right;
+  
+  }
+  
+  .clearfix {
+    overflow: auto;
+    zoom: 1;
+  }
+  
+}
